@@ -1,4 +1,4 @@
-# Horse Manager
+# EasyLog
 
 Um aplicativo que centraliza e organiza todas as informações de uma marcenaria, permitindo gestão eficiente de estoque, projetos, máquinas, funcionários e fornecedores, substituindo todos os processos em excel.
 
