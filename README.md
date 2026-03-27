@@ -33,6 +33,7 @@ Um aplicativo que centraliza e organiza todas as informações de uma marcenaria
 
 # Tecnologias Usadas: 
 - HTML e CSS
+- Next.js
 - Java
 - Javascript
 - Oracle Sql Server 
