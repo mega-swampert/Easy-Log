@@ -35,6 +35,7 @@ Um aplicativo que centraliza e organiza todas as informações de uma marcenaria
 - HTML e CSS
 - Next.js
 - Java
+- Typescript
 - Javascript
 - Oracle Sql Server 
 
