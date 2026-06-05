@@ -2,6 +2,10 @@
 
 Um aplicativo que centraliza e organiza todas as informações de uma marcenaria, permitindo gestão eficiente de estoque, projetos, máquinas, funcionários e fornecedores, substituindo todos os processos em excel.
 
+# Link do Repositório do Site
+
+https://github.com/NerialSumber/Easy-Log
+
 # Principais Dores:
 - Atualmente, o controle da marcenaria é feito em excel e de forma descentralizada, o que gera perda de informações, dificuldades de consulta e possui diversas oportunidades para erros.  
 - A falta de um sistema único dificulta a comunicação entre todas as partes envolvidas, resultando em atrasos nas tomadas de decisão.  
